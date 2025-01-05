@@ -1,7 +1,7 @@
 Data Source: https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
 
 This data was collected from a survey conducted for data professionals on LinkedIn. First, I used Power Query Editor to transform the data, then created visualizations, finalized the dashboards, and designed a unique theme with a distinct color scheme.
-Data Source: https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
+
 Here are the questions I aimed to answer:
 1.	Count of survey participants, average age, and average salary by job title
 2.	Preferred programming language based on job title
