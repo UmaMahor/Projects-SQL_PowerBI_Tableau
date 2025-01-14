@@ -2,6 +2,7 @@
 ## About data
 A survey was conducted among data professionals to gain insights into life in the data analysis industry. It aimed to explore the most popular programming languages, work-life balance, salary satisfaction, various job titles, gender ratios, the challenges of entering the industry as a newcomer, average age, and more. The survey received responses from professionals not only in Canada but from various regions around the world.
 
-## I created a Power BI project to visualize the survey results.I created a Power BI project to visualize the survey results because the data was exported to an Excel file, and at first glance, it was nearly impossible to draw any conclusions due to the disorganized and unreadable format.
+## Project goal
+I created a Power BI project to visualize the survey results.I created a Power BI project to visualize the survey results because the data was exported to an Excel file, and at first glance, it was nearly impossible to draw any conclusions due to the disorganized and unreadable format.
 
 
