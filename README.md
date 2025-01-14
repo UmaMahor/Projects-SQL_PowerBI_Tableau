@@ -1,5 +1,5 @@
 # Data Professionals Survey Dashboard
-## About data
+## About Data
 A survey was conducted among data professionals to gain insights into life in the data analysis industry. It aimed to explore the most popular programming languages, work-life balance, salary satisfaction, various job titles, gender ratios, the challenges of entering the industry as a newcomer, average age, and more. The survey received responses from professionals not only in Canada but from various regions around the world.
 
 ## Project Objective
@@ -11,7 +11,7 @@ I created a Power BI project to visualize the survey results, making it easier t
 
 ## Dashboard
 
-- <a href= "https://github.com/UmaMahor/MyProjects/blob/PowerBI/Data%20Professionals%20Survey%20Dashboard.png">Dashboard
+- <a href= "https://github.com/UmaMahor/MyProjects/blob/PowerBI/Data%20Professionals%20Survey%20Dashboard.png">Power BI Dashboard
 
 ## Questions
 - Breakdown of survey participants by region
