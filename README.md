@@ -8,3 +8,21 @@ I created a Power BI project to visualize the survey results, making it easier t
 
 ## Dataset Used
 - <a href="https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx">Dataset
+
+## Dashboard
+
+
+
+## Questions
+- Breakdown of survey participants by region
+- Count of survey participants, along with the average age and salary, categorized by job title
+- Preferred programming languages by job title
+- Perceived difficulty of entering the data analytics field
+- Job satisfaction of data professionals, focusing on work-life balance and salary
+
+## Process
+- Used Power Query to transform the data
+- Added a custom column and created a formula
+- Utilized various visualizations, including cards, tables, tree maps, column charts, bar charts, and donut charts
+- Worked on the dashboard by adjusting the background, selecting themes, and customizing them
+
