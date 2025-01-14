@@ -11,7 +11,7 @@ I created a Power BI project to visualize the survey results, making it easier t
 
 ## Dashboard
 
-
+- <a href= "https://github.com/UmaMahor/MyProjects/blob/PowerBI/Data%20Professionals%20Survey%20Dashboard.png">Dashboard
 
 ## Questions
 - Breakdown of survey participants by region
