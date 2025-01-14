@@ -1,4 +1,4 @@
-# Data Professioanls Survey Dashboard
+# Data Professionals Survey Dashboard
 ## About data
 A survey was conducted among data professionals to gain insights into life in the data analysis industry. It aimed to explore the most popular programming languages, work-life balance, salary satisfaction, various job titles, gender ratios, the challenges of entering the industry as a newcomer, average age, and more. The survey received responses from professionals not only in Canada but from various regions around the world.
 
