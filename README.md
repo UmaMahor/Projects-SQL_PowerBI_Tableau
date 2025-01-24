@@ -6,7 +6,7 @@
 
 
 ## Dataset Used
-- <a href="https://github.com/UmaMahor/MyProjects/tree/Tableau">Dataset
+- <a href="https://github.com/UmaMahor/MyProjects/blob/Tableau/HumanResources.csv">Dataset
 
 ## Dashboard
 
