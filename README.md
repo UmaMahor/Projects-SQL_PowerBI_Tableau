@@ -5,14 +5,14 @@ Post-pandemic, following the impact of COVID-19, tech companies worldwide faced 
 ## Project Objective
 This data comes from global layoffs and includes details such as company name, location, industry, number of layoffs, date, etc. Since we have a large amount of information, we will first clean the data, and then use it for data exploration to identify trends and patterns.
 
-# Data Cleaning Steps:
+## Data Cleaning Steps:
 
 - Remove duplicates
 - Standardize the data
 - Identify and handle null or blank values
 - Remove any irrelevant columns
 
-# Data Exploration Steps:
+## Data Exploration Steps:
 
 - Identify trends and patterns
 - Run complex queries
