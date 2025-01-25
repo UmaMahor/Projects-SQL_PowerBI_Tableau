@@ -16,7 +16,9 @@ The dataset is quite large and nearly impossible to read and understand in an Ex
 
 - <a href= "https://github.com/UmaMahor/MyProjects/blob/Tableau/HR%20Dashbaord%20Part%202-%20Details.png"> HR Dashboard Detail Image
 
-## Problem Statement- Create a dashboard offering both summary views for high-level insights and detailed employee records for deeper analysis. 
+## Problem Statement
+
+### Create a dashboard offering both summary views for high-level insights and detailed employee records for deeper analysis. 
 ### Overview- The Overview section should provide a snapshot of the overall HR metrics, including:
 
 Display the total number of hired employees, active employees, and terminated employees.
