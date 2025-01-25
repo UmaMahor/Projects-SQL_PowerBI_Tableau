@@ -19,13 +19,3 @@ This data comes from global layoffs and includes details such as company name, l
 
 ## Dataset Used
 - <a href="https://www.kaggle.com/datasets/swaptr/layoffs-2022">Dataset
-
-## Questions
-- 
-
-
-
-
-
-## Process
-- 
