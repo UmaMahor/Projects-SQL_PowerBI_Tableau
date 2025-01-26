@@ -14,7 +14,7 @@ The dataset is quite large and nearly impossible to read and understand in an Ex
 
 - <a href= "https://github.com/UmaMahor/Projects-SQL_PowerBI_Tableau/blob/Tableau/HR%20Summary%20View.png"> HR Dashboard Summary View Image
 
-- <a href= "https://github.com/UmaMahor/Projects-SQL_PowerBI_Tableau/blob/Tableau/HR%20Employee%20Records%20View.png"> HR Dashboard Employee Records View Image
+- <a href= "https://github.com/UmaMahor/Projects-SQL_PowerBI_Tableau/blob/Tableau/HR%20Employee%20records%20view.png"> HR Dashboard Employee Records View Image
 
 ## Problem Statement
 
